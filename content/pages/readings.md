@@ -348,7 +348,7 @@ Can we harm people by bringing them into existence, and should we be liable for 
 {{< tdopen >}}
 
 
-Shiffrin, Seana Valentine. ["Wrongful Life, Procreative Responsibility, and the Significance of Harm." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685379) _Legal Theory_ 5 (1999): 117–48.
+Shiffrin, Seana Valentine. ["Wrongful Life, Procreative Responsibility, and the Significance of Harm." (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685379) _Legal Theory_ 5 (1999): 117–48.
 
 [See the Reading Notes]({{< baseurl >}}/pages/reading-notes#23)
 
