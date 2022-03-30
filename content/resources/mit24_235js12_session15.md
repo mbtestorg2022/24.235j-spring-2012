@@ -6,6 +6,7 @@ description: "Reading notes on \"Crime and Punishment: Distinguishing the Roles 
   \ of empirical moral psychology to ethics."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-235j-philosophy-of-law-spring-2012/e3540251942f92ccbae908507c5bc263_MIT24_235JS12_Session15.pdf
 file_type: application/pdf
+parent_uid: a682fbe4-eaba-8b45-f707-0b877346bc5d
 resourcetype: Document
 title: 'Session 15: Cushman, "Crime and Punishment: Distinguishing the roles of causal
   and intentional analyses in moral judgment"'
